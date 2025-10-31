@@ -1,5 +1,11 @@
 # Sistema de Impressão Distribuída (Trabalho Prático 1)
 
+**Integrantes do Grupo:**
+* Gabriel Samarane Ribeiro
+* João Lucas Azeredo Coutinho Curi
+* João Madeira Carneiro Braga de Freitas
+* Pedro Marçal Lima
+
 Este projeto implementa um sistema de impressão distribuída que utiliza o algoritmo de **Ricart-Agrawala** para garantir exclusão mútua e **Relógios Lógicos de Lamport** para ordenação de eventos. A comunicação entre os processos é feita via **gRPC**.
 
 O sistema simula um cenário onde múltiplos clientes ("inteligentes") disputam o acesso a um recurso compartilhado (um servidor de impressão "burro") que só pode atender um pedido por vez.
