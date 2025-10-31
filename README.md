@@ -177,5 +177,4 @@ IMPRESSÃO CONCLUÍDA. Respondendo ao Cliente 1
 Para parar a simulação, vá em cada um dos 4 terminais e pressione `Ctrl + C`.
 
 ```
-```
 
