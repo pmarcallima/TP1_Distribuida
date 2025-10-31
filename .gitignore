@@ -1,0 +1,42 @@
+# Arquivos compilados do Java e Maven
+target/
+*.class
+*.jar
+*.war
+
+# Arquivos de Log
+*.log
+logs/
+
+# Arquivos de IDE
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Arquivos do Sistema Operacional
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
