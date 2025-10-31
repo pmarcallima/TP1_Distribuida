@@ -124,13 +124,6 @@ Você precisará de **4 janelas de terminal** abertas. Todas devem estar no mesm
 ```bash
 java -cp target/distributed-printing-1.0.0.jar br.com.paralela.tp1.PrinterServer --port=50051
 ```
-
-**Terminal 1: Servidor "Burro"**
-*Inicie o servidor de impressão primeiro. Ele ficará aguardando conexões.*
-```bash
-java -cp target/distributed-printing-1.0.0.jar br.com.paralela.tp1.PrinterServer --port=50051
-```
-
 *Saída esperada: `--- Servidor de Impressão 'Burro' iniciado na porta 50051 ---`*
 
 **Terminal 2: Cliente 1**
